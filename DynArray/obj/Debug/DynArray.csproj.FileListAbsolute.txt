@@ -1,0 +1,13 @@
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/obj/Debug/DynArray.csprojAssemblyReference.cache
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/obj/Debug/DynArray.csproj.CoreCompileInputs.cache
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/bin/Debug/DynArray.exe
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/bin/Debug/DynArray.pdb
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/obj/Debug/DynArray.exe
+/Users/b.rodriguez/Documents/VimTesting/cs/array/DynArray/DynArray/obj/Debug/DynArray.pdb
+C:\Users\sai.herng\Desktop\DynArray\DynArray\obj\Debug\DynArray.exe
+C:\Users\sai.herng\Desktop\DynArray\DynArray\obj\Debug\DynArray.pdb
+C:\Users\sai.herng\Desktop\DynArray\DynArray\obj\Debug\DynArray.csprojAssemblyReference.cache
+C:\Users\sai.herng\Desktop\DynArray\DynArray\obj\Debug\DynArray.csproj.CoreCompileInputs.cache
+C:\Users\sai.herng\Desktop\DynArray\DynArray\bin\Debug\DynArray.exe.config
+C:\Users\sai.herng\Desktop\DynArray\DynArray\bin\Debug\DynArray.exe
+C:\Users\sai.herng\Desktop\DynArray\DynArray\bin\Debug\DynArray.pdb
